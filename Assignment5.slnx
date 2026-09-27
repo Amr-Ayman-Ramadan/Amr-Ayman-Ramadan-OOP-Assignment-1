@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/submission/" />
+  <Folder Name="/submission/assignment/" />
+  <Folder Name="/submission/assignment/Part1_ProceduralToOOP/" />
+  <Folder Name="/submission/assignment/Part1_ProceduralToOOP/src/">
+    <Project Path="submission/assignment/Part1_ProceduralToOOP/src/Part1_ProceduralToOOP.csproj" />
+  </Folder>
+  <Folder Name="/submission/assignment/Part2_HotelReservationSystem/" />
+  <Folder Name="/submission/assignment/Part2_HotelReservationSystem/src/">
+    <Project Path="submission/assignment/Part2_HotelReservationSystem/src/Part2_HotelReservationSystem.csproj" />
+  </Folder>
+  <Folder Name="/submission/assignment/Part3_BuilderPattern/" />
+  <Folder Name="/submission/assignment/Part3_BuilderPattern/src/">
+    <Project Path="submission/assignment/Part3_BuilderPattern/src/Part3_BuilderPattern.csproj" />
+  </Folder>
+</Solution>
